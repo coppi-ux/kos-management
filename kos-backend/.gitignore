@@ -1,0 +1,11 @@
+.env
+node_modules/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*-service-account*.json
+google-credentials*.json
+serviceAccountKey.json

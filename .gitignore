@@ -1,0 +1,8 @@
+node_modules/
+kos-backend/.env
+kos-backend/config/notificationConfig.js
+kos_management/build/
+kos_management/assets/.env
+kos_management/.dart_tool/
+kos_management/android/local.properties
+kos_management/android/.gradle/
